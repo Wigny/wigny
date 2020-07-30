@@ -11,4 +11,4 @@ Costumo iniciar projetos e nunca finalizá-los. Aqui está a lista de alguns pro
 - **[electron-angular](https://github.com/Wigny/electron-angular)**
 - **[store_server](https://github.com/Wigny/store_server)**
 
-Atualizado última vez em 29 de julho de 2020 com mágica.
+Atualizado última vez em 30 de julho de 2020 com mágica.
