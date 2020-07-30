@@ -2,9 +2,9 @@
 
 Sou desenvolvedor web e estudante de análise e desenvolvimento de sistemas.
 
-Tenho 19 anos de idade e amo linguagens com Dart, Typescript e Javascript, Java e frameworks como o Flutter, Angular e até mesmo Ionic.
+Tenho 19 anos de idade e amo linguagens com Dart, Typescript, Javascript e Java e frameworks como o Flutter, Angular e até mesmo Ionic.
 
-Costumo iniciar projetos e nunca finalizá-los. Aqui está a lista de alguns projetos recentes que provavelmente ainda não foram acabados:
+Aqui está a lista de alguns projetos recentes no qual trabalhei:
 - **[php-shopping-cart](https://github.com/Wigny/php-shopping-cart)**
 - **[dart_cart](https://github.com/Wigny/dart_cart)**
 - **[react-todos](https://github.com/Wigny/react-todos)**
