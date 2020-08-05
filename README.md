@@ -11,4 +11,4 @@ Aqui está a lista de alguns projetos recentes no qual trabalhei:
 - **[react-todos](https://github.com/Wigny/react-todos)**
 - **[electron-angular](https://github.com/Wigny/electron-angular)**
 
-Atualizado última vez em 4 de agosto de 2020 com mágica.
+Atualizado última vez em 5 de agosto de 2020 com mágica.
