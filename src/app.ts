@@ -37,7 +37,7 @@ const write = (repos: Repositories) => {
     repos.forEach(line);
     stream.write('\n');
 
-    stream.write(`Atualizado última vez em ${today} com mágica.`)
+    stream.write(`Atualizado última vez em ${today} com mágica, TypeScript e Node.js.`)
     stream.end();
   });
 }
