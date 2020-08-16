@@ -11,4 +11,4 @@ Aqui estão alguns projetos recentes nos quais trabalhei:
 - **[react-todos](https://github.com/Wigny/react-todos)**
 - **[electron-angular](https://github.com/Wigny/electron-angular)**
 
-Atualizado última vez em 15 de agosto de 2020 com mágica, TypeScript e Node.js.
+Atualizado última vez em 16 de agosto de 2020 com mágica, TypeScript e Node.js.
