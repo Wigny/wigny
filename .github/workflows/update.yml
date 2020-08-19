@@ -9,7 +9,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 11 * * *'
+    - cron: '0 11 * * 1'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -20,15 +20,15 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: 🍽️ Get working copy
+      - name: Start
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: 🍳 Shake & bake README
+      - name: Build
         run: |
           npm i
           npm run start
-      - name: 🚀 Deploy
+      - name: Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
