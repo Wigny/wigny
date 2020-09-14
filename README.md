@@ -11,4 +11,4 @@ Aqui estão alguns projetos recentes nos quais trabalhei:
 - **[dart_cart](https://github.com/Wigny/dart_cart)**
 - **[react-todos](https://github.com/Wigny/react-todos)**
 
-Atualizado última vez em 7 de setembro de 2020 com mágica, TypeScript e Node.js.
+Atualizado última vez em 14 de setembro de 2020 com mágica, TypeScript e Node.js.
