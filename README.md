@@ -11,4 +11,4 @@ Aqui estão alguns projetos recentes nos quais trabalhei:
 - **[graphql-uploads](https://github.com/Wigny/graphql-uploads)**
 - **[dialog_plugin](https://github.com/Wigny/dialog_plugin)**
 
-Atualizado última vez em 14 de dezembro de 2020 com Node.js e TypeScript.
+Atualizado última vez em 21 de dezembro de 2020 com Node.js e TypeScript.
