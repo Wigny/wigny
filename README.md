@@ -11,4 +11,4 @@ Aqui estão alguns projetos recentes nos quais trabalhei:
 - **[backend-likeinsta](https://github.com/Wigny/backend-likeinsta)**
 - **[domain-generator-client](https://github.com/Wigny/domain-generator-client)**
 
-Atualizado última vez em 25 de janeiro de 2021 com Node.js e TypeScript.
+Atualizado última vez em 1 de fevereiro de 2021 com Node.js e TypeScript.
