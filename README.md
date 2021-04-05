@@ -11,4 +11,4 @@ Aqui estão alguns projetos recentes nos quais trabalhei:
 - **[frontend-likeinsta](https://github.com/Wigny/frontend-likeinsta)**
 - **[backend-likeinsta](https://github.com/Wigny/backend-likeinsta)**
 
-Atualizado última vez em 29 de março de 2021 com Node.js e TypeScript.
+Atualizado última vez em 5 de abril de 2021 com Node.js e TypeScript.
